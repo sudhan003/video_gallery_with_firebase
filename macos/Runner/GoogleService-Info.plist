@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>313408777454-40vqb81i5m56e04idn3j5s44lm37v3bt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.313408777454-40vqb81i5m56e04idn3j5s44lm37v3bt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqcq5qTJBo10aFhp6OyrJwv12kqKSOlMk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>313408777454</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.videoUploader</string>
+	<key>PROJECT_ID</key>
+	<string>assignment-project-c3a8e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>assignment-project-c3a8e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:313408777454:ios:87ea27b662a8889f7017ff</string>
+</dict>
+</plist>
